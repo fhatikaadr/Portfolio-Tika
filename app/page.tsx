@@ -168,7 +168,7 @@ export default function Portfolio() {
                 View My Work
               </a>
               <a
-                href="https://drive.google.com/file/d/13x47H2v-dqj7VGCicR7SlCR0O6eMoYXN/view?usp=sharing"
+                href="https://drive.google.com/file/d/11f3RtqB6ZurD6oL3-rRrB6VJGoHZDZSO/view?usp=sharing"
                 download
                 target="_blank"
                 rel="noopener noreferrer"
