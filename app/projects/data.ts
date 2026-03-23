@@ -63,7 +63,7 @@ export const projects: Project[] = [
     date: '16/03/2025 - 14/06/2025',
     documentLink: 'https://drive.google.com/file/d/19NHnjG7ivbKK5bD4N-RfdluE8ecs2tjY/view?usp=sharing',
     deckLink: 'https://drive.google.com/file/d/1aLXd910PsQHiBapteGHZbKOnQEg-wwFQ/view?usp=sharing',
-    previewImage: '/duh-baking-cover-v3.png',
+    previewImage: '/duh-baking-business-operational-analysis.png',
   },
   {
     id: '3',
@@ -82,7 +82,7 @@ export const projects: Project[] = [
     year: '2025',
     date: '02/10/2025 - 11/12/2025',
     deckLink: 'https://drive.google.com/file/d/1Y-3vU1xLusqnZvLWE2NPFq5YCGoTdctV/view?usp=sharing',
-    previewImage: '/duh-baking-ea-cover-v3.png',
+    previewImage: '/duh-baking-smart-production-system-design.png',
   },
   {
     id: '4',
@@ -102,7 +102,7 @@ export const projects: Project[] = [
     date: '01/07/2025 - 12/07/2024',
     documentLink: 'https://drive.google.com/file/d/1OL8ip3OmVwO2fwOykTjlnBHleq4o6IIb/view?usp=sharing',
     certificationLink: 'https://drive.google.com/file/d/1gKMtefHDw2bmLscWH6YfC6WihWfK-M45/view?usp=sharing',
-    previewImage: '/sevenpreneur-cover-v3.png',
+    previewImage: '/sevenfit-well-strategy.png',
   },
   {
     id: '5',
@@ -122,7 +122,7 @@ export const projects: Project[] = [
     date: '05/09/2024 - 18/09/2024',
     deckLink: 'https://drive.google.com/file/d/1B0u5H-GI79jsPGV2BpaAXkmPVSgKgDbP/view?usp=sharing',
     certificationLink: 'https://drive.google.com/file/d/1aJiY6gKm2LaPf-EV9lbUOmiDbsfhYJgN/view?usp=sharing',
-    previewImage: '/grab-cover-v3.png',
+    previewImage: '/grab-sme-digital-transformation.png',
   },
   {
     id: '6',
@@ -142,7 +142,7 @@ export const projects: Project[] = [
     date: '02/08/2025 - 15/08/2025',
     documentLink: 'https://drive.google.com/file/d/1j99HprNzHCboisQBZTNIY7IqfP2VZfqp/view?usp=sharing',
     certificationLink: 'https://drive.google.com/file/d/1OK47erp7HFf_YbzBjspOMOL_YytFXMrz/view?usp=sharing',
-    previewImage: '/smartfren-cover-v3.jpg',
+    previewImage: '/smartfren-s2f-strategy.jpg',
   },
   {
     id: '7',
@@ -162,7 +162,7 @@ export const projects: Project[] = [
     date: '31/08/2025 - 26/10/2025',
     deckLink: 'https://drive.google.com/file/d/1CR5gkY3OkOM32I0urNZn3yJ73hqr00-9/view?usp=sharing',
     certificationLink: 'https://drive.google.com/file/d/1MaWapMTsCpAh_8F7YvryY7rvDEUtK8Ck/view?usp=sharing',
-    previewImage: '/telkomsel-cover-v3.jpg',
+    previewImage: '/telkomsel-nexus-strategy.jpg',
   },
   {
     id: '8',
@@ -202,7 +202,7 @@ export const projects: Project[] = [
     date: '16/09/2025 - 22/12/2025',
     deckLink: 'https://drive.google.com/file/d/1ZWJ4UxtMA2BlxsYumBBhRY1PwQQSta7M/view?usp=sharing',
     figmaLink: 'https://www.figma.com/proto/038c1qYxNlG9Xi3BHvO8Ln/GaweIn---Tubes-IMK-Kelompok-6?page-id=725%3A1849&node-id=1349-15347&viewport=1353%2C940%2C0.19&t=fopqWKnUg3AVPWhm-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1349%3A15347',
-    previewImage: '/gawein-cover-v1.png',
+    previewImage: '/gawein-original.png',
   },
   {
     id: '12',
@@ -221,7 +221,7 @@ export const projects: Project[] = [
     year: '2026',
     date: '24/08/2025 - 30/01/2026',
     figmaLink: 'https://www.figma.com/design/UIMtrPlOegJHWQUUYk59oG/Anmategra-Blueprint-2025?node-id=466-7654&t=Bht53MLlLH1s7UjM-1',
-    previewImage: '/anmategra-cover-v2.png',
+    previewImage: '/anmategra-original.png',
   },
   {
     id: '9',
@@ -240,7 +240,7 @@ export const projects: Project[] = [
     year: '2023',
     date: '14/11/2023 - 27/11/2023',
     documentLink: 'https://drive.google.com/file/d/1KJMkiynYSmFa6LOFznTKt13yanVYIhRa/view?usp=sharing',
-    previewImage: '/amazon-books-cover-v1.jpg',
+    previewImage: '/amazon-books-reviews-analysis.jpg',
   },
   {
     id: '13',
@@ -259,7 +259,7 @@ export const projects: Project[] = [
     year: '2024',
     date: '06/11/2024 - 16/12/2024',
     documentLink: 'https://drive.google.com/file/d/1IeTua4GkndnTsklInTdfzdrlievexoHD/view?usp=sharing',
-    previewImage: '/airbnb-modeling-cover-v1.jpg',
+    previewImage: '/airbnb-database-modeling.jpg',
   },
   {
     id: '14',
@@ -279,7 +279,7 @@ export const projects: Project[] = [
     date: '06/10/2025 - 30/10/2025',
     documentLink: 'https://drive.google.com/file/d/1N4ITDIZzvLFa_NsT5_CDpUq5JlXyjNYF/view?usp=sharing',
     githubLink: 'https://github.com/princessfaazzahra/Tugas-Besar-AI-IF3070---Ooga-',
-    previewImage: '/bin-packing-cover-v1.jpg',
+    previewImage: '/bin-packing-local-search.jpg',
   },
   {
     id: '15',
@@ -299,7 +299,7 @@ export const projects: Project[] = [
     date: '25/11/2025 - 13/12/2025',
     documentLink: 'https://drive.google.com/file/d/1cBEqn6tQxVnXuZRaL4HNYZWzyswbtVoT/view?usp=sharing',
     githubLink: 'https://github.com/princessfaazzahra/Tugas-Besar-2-IF3070---Ooga',
-    previewImage: '/fraud-detection-cover-v1.jpg',
+    previewImage: '/fraud-detection-ml.jpg',
   },
   {
     id: '16',
@@ -319,7 +319,7 @@ export const projects: Project[] = [
     date: '20/10/2025 - 07/11/2025',
     documentLink: 'https://drive.google.com/file/d/16MSb5Q7chekGIKi7eT6f_EaTe0_F83oR/view?usp=sharing',
     githubLink: 'https://github.com/fhatikaadr/Tugas-Virtual-Lab-PAWM-Kelompok-8',
-    previewImage: '/physphere-web-cover-v1.png',
+    previewImage: '/physphere-web-based.png',
   },
   {
     id: '17',
@@ -339,7 +339,7 @@ export const projects: Project[] = [
     date: '10/12/2025 - 05/01/2026',
     documentLink: 'https://drive.google.com/file/d/1Ilvg-fPX9he9oXW-o95RH1l3cdaiHY0X/view?usp=sharing',
     githubLink: 'https://github.com/florecita24/Tugas-Virtual-Lab-PAWM-Kelompok-8-PhySphere-Mobile',
-    previewImage: '/physphere-mobile-cover-v1.png',
+    previewImage: '/physphere-mobile-based.png',
   },
   {
     id: '18',
@@ -359,7 +359,7 @@ export const projects: Project[] = [
     date: '11/11/2024 - 22/12/2024',
     documentLink: 'https://drive.google.com/file/d/1-h3odwTrqtz1Srpst1vrZuZyav4voY1t/view?usp=sharing',
     githubLink: 'https://github.com/RylRizqi16/Tubes_IF2111_02_10',
-    previewImage: '/purrmart-cover-v1.jpg',
+    previewImage: '/purrmart-original.jpg',
   },
   {
     id: '19',
@@ -379,7 +379,7 @@ export const projects: Project[] = [
     date: '26/04/2024 - 18/05/2024',
     documentLink: 'https://drive.google.com/file/d/1EwVFFGh_AMIalL7sw1x90pmjSHyhTgQM/view?usp=sharing',
     sourceCodeLink: 'https://drive.google.com/file/d/19OkGfDKk_h-6AOevRBqCfT_Rp6V6x-PE/view?usp=sharing',
-    previewImage: '/owca-cover-v1.jpg',
+    previewImage: '/owca-adventure-original.jpg',
   },
   {
     id: '20',
@@ -399,7 +399,7 @@ export const projects: Project[] = [
     date: '16/04/2025 - 01/06/2025',
     documentLink: 'https://drive.google.com/file/d/13nfmf7rxxlepBQu-NRpNOwh80lsQAOC1/view?usp=sharing',
     githubLink: 'https://github.com/furhuruhun/Tubes-OOP-K02-G03',
-    previewImage: '/spakbor-hills-cover-v1.jpg',
+    previewImage: '/spakbor-hills-original.jpg',
   },
 ];
 
