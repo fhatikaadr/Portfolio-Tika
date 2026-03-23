@@ -82,7 +82,7 @@ export const projects: Project[] = [
     year: '2025',
     date: '02/10/2025 - 11/12/2025',
     deckLink: 'https://drive.google.com/file/d/1Y-3vU1xLusqnZvLWE2NPFq5YCGoTdctV/view?usp=sharing',
-    previewImage: '/duh-baking-smart-production-system-design.png',
+    previewImage: '/duh-baking-smart-production-system-design-ae.png',
   },
   {
     id: '4',
